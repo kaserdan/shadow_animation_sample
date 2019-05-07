@@ -1,0 +1,99 @@
+2019-05-07 14:07:55.476 3570-3570/? D/ViewRootImpl: is.shortcut: (1, 3, 1, 0, 97386)
+2019-05-07 14:07:55.568 1388-3464/? I/ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=cz.kaserdan.myapplication/.MainActivity} from uid 10224
+2019-05-07 14:07:55.573 1388-3464/? E/ANDR-PERF-JNI: com_qualcomm_qtiperformance_native_perf_io_prefetch_start
+2019-05-07 14:07:55.580 749-749/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 4, app_layer_count: 3, gpu_target_index: 3, display type: 0
+2019-05-07 14:07:55.585 1388-3464/? D/ActivityTrigger: activityStartTrigger: Activity is Triggerred in full screen ApplicationInfo{139d63f cz.kaserdan.myapplication}
+2019-05-07 14:07:55.585 1388-3464/? E/ActivityTrigger: activityStartTrigger: not whiteListedcz.kaserdan.myapplication/cz.kaserdan.myapplication.MainActivity/1
+2019-05-07 14:07:55.585 1388-3464/? D/ActivityTrigger: activityResumeTrigger: The activity in ApplicationInfo{139d63f cz.kaserdan.myapplication} is now in focus and seems to be in full-screen mode
+2019-05-07 14:07:55.585 1388-3464/? E/ActivityTrigger: activityResumeTrigger: not whiteListedcz.kaserdan.myapplication/cz.kaserdan.myapplication.MainActivity/1
+2019-05-07 14:07:55.585 1388-3464/? D/ActivityTrigger: ActivityTrigger activityPauseTrigger
+2019-05-07 14:07:55.586 948-1159/? W/statsd: not interested in atom 130601
+2019-05-07 14:07:55.586 948-1159/? D/statsd: log source 1000 is allowed for fih atoms
+2019-05-07 14:07:55.586 948-1159/? D/statsd: log source 1000 is allowed for fih atoms
+2019-05-07 14:07:55.589 1388-2095/? I/DecorView: It non-support bigbang
+2019-05-07 14:07:55.590 1388-2095/? I/PhoneWindow: generateLayout isLightNavi false, Visibility: 0
+2019-05-07 14:07:55.594 3570-28587/? D/AnalyticsDatabaseHelper: Inserting analytics logs into the database.
+2019-05-07 14:07:55.597 749-749/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 4, app_layer_count: 3, gpu_target_index: 3, display type: 0
+2019-05-07 14:07:55.598 3570-3570/? I/NotificationController: paused
+2019-05-07 14:07:55.598 3570-29213/? V/FA: Recording user engagement, ms: 2781
+2019-05-07 14:07:55.600 3570-29213/? V/FA: Activity paused, time: 161234267
+2019-05-07 14:07:55.600 1388-5953/? D/ActivityTrigger: activityResumeTrigger: The activity in ApplicationInfo{139d63f cz.kaserdan.myapplication} is now in focus and seems to be in full-screen mode
+2019-05-07 14:07:55.600 1388-5953/? E/ActivityTrigger: activityResumeTrigger: not whiteListedcz.kaserdan.myapplication/cz.kaserdan.myapplication.MainActivity/1
+2019-05-07 14:07:55.602 3570-29213/? D/FA: Logging event (FE): user_engagement(_e), Bundle[{firebase_event_origin(_o)=auto, engagement_time_msec(_et)=2781, firebase_screen_class(_sc)=Launcher, firebase_screen_id(_si)=3562167625092350352}]
+2019-05-07 14:07:55.603 27693-27693/cz.kaserdan.myapplication W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@9251648
+2019-05-07 14:07:55.607 948-1159/? W/statsd: not interested in atom 130601
+2019-05-07 14:07:55.607 948-1159/? D/statsd: log source 1000 is allowed for fih atoms
+2019-05-07 14:07:55.607 948-1159/? D/statsd: log source 1000 is allowed for fih atoms
+2019-05-07 14:07:55.610 3570-3570/? D/AppsDatabaseHelper: Updating based on provided selection/selectionArgs [selection=_ID=?, selectionArgs size=1]
+2019-05-07 14:07:55.611 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 4, app_layer_count: 3, gpu_target_index: 3, display type: 0
+2019-05-07 14:07:55.613 3570-3570/? D/AppsDatabaseHelper: Number of rows affected: 1
+2019-05-07 14:07:55.615 3570-29230/? D/AnalyticsDatabaseHelper: Read 1 records from analytics logs table.
+2019-05-07 14:07:55.620 27693-27693/cz.kaserdan.myapplication I/DecorView: It non-support bigbang
+2019-05-07 14:07:55.621 3570-3570/? D/AllAppsFragment: refreshAppList
+2019-05-07 14:07:55.624 27693-27693/cz.kaserdan.myapplication I/PhoneWindow: generateLayout isLightNavi false, Visibility: 0
+2019-05-07 14:07:55.628 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 4, app_layer_count: 3, gpu_target_index: 3, display type: 0
+2019-05-07 14:07:55.628 3570-3570/? D/AllAppsFragment: prefetchIcons
+2019-05-07 14:07:55.634 3570-29216/? D/AllAppsFragment: prefetched: 93
+2019-05-07 14:07:55.634 2368-2368/? D/StatusBar: setSystemUiVisibility vis=8 mask=ffffffff oldVal=708 newVal=8 diff=700
+2019-05-07 14:07:55.645 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 4, app_layer_count: 3, gpu_target_index: 3, display type: 0
+2019-05-07 14:07:55.645 3259-29202/? V/FA: Logging event: origin=auto,name=user_engagement(_e),params=Bundle[{firebase_event_origin(_o)=auto, engagement_time_msec(_et)=2781, firebase_screen_class(_sc)=Launcher, firebase_screen_id(_si)=3562167625092350352}]
+2019-05-07 14:07:55.660 3259-29202/? V/FA: Saving event, name, data size: user_engagement(_e), 63
+2019-05-07 14:07:55.660 3259-29202/? V/FA: Event recorded: Event{appId='is.shortcut', name='user_engagement(_e)', params=Bundle[{firebase_event_origin(_o)=auto, engagement_time_msec(_et)=2781, firebase_screen_class(_sc)=Launcher, firebase_screen_id(_si)=3562167625092350352}]}
+2019-05-07 14:07:55.662 3259-29202/? V/FA: Upload scheduled in approximately ms: 1377105
+2019-05-07 14:07:55.662 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 5, app_layer_count: 4, gpu_target_index: 4, display type: 0
+2019-05-07 14:07:55.662 3259-29202/? V/FA: Cancelling job. JobID: 812057698
+2019-05-07 14:07:55.664 3259-29202/? V/FA: Scheduling upload with GcmTaskService
+2019-05-07 14:07:55.664 3259-29202/? V/FA: Scheduling task with Gcm. time: 1377105
+2019-05-07 14:07:55.665 3259-29202/? V/FA: Background event processing time, ms: 20
+2019-05-07 14:07:55.678 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 5, app_layer_count: 4, gpu_target_index: 4, display type: 0
+2019-05-07 14:07:55.695 749-903/? I/chatty: uid=1000(system) HwBinder:749_1 identical 1 line
+2019-05-07 14:07:55.712 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 5, app_layer_count: 4, gpu_target_index: 4, display type: 0
+2019-05-07 14:07:55.724 1388-1476/? I/ActivityManager: Displayed cz.kaserdan.myapplication/.MainActivity: +119ms
+2019-05-07 14:07:55.729 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 6, app_layer_count: 5, gpu_target_index: 5, display type: 0
+2019-05-07 14:07:55.862 749-903/? I/chatty: uid=1000(system) HwBinder:749_1 identical 8 lines
+2019-05-07 14:07:55.879 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 6, app_layer_count: 5, gpu_target_index: 5, display type: 0
+2019-05-07 14:07:55.880 790-880/? W/SurfaceFlinger: Attempting to set client state on removed layer: Splash Screen cz.kaserdan.myapplication#0
+2019-05-07 14:07:55.880 790-880/? W/SurfaceFlinger: Attempting to destroy on removed layer: Splash Screen cz.kaserdan.myapplication#0
+2019-05-07 14:07:55.896 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 5, app_layer_count: 4, gpu_target_index: 4, display type: 0
+2019-05-07 14:07:55.912 2368-2368/? D/ImageWallpaper: onVisibilityChanged: mVisible, visible=true, false
+2019-05-07 14:07:55.912 2368-2368/? D/ImageWallpaper: Visibility changed to visible=false
+2019-05-07 14:07:55.912 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:56.329 749-903/? I/chatty: uid=1000(system) HwBinder:749_1 identical 25 lines
+2019-05-07 14:07:56.346 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:56.360 3570-29230/? D/AnalyticsDatabaseHelper: Deleting record from database. ID: 23162
+2019-05-07 14:07:56.363 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:56.370 3570-29230/? D/AnalyticsDatabaseHelper: Read 0 records from analytics logs table.
+2019-05-07 14:07:56.379 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:56.413 749-903/? I/chatty: uid=1000(system) HwBinder:749_1 identical 2 lines
+2019-05-07 14:07:56.429 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:56.435 3259-27954/? D/BluetoothAdapter: isLeEnabled(): ON
+2019-05-07 14:07:56.436 2331-2911/? I/bt_stack: [INFO:gatt_api.cc(949)] GATT_Registere67356ce-bec9-be58-0a17-683ccd986bd1
+2019-05-07 14:07:56.436 2331-2911/? I/bt_stack: [INFO:gatt_api.cc(969)] allocated gatt_if=7
+2019-05-07 14:07:56.436 3259-3424/? D/BluetoothLeScanner: onScannerRegistered() - status=0 scannerId=7 mScannerId=0
+2019-05-07 14:07:56.439 2331-2673/? D/BtGatt.ScanManager: isAptXLowLatencyModeEnabled: false
+2019-05-07 14:07:56.439 740-740/? D/vendor.qti.bluetooth@1.0-ibs_handler: SerialClockVote: vote for UART CLK ON
+2019-05-07 14:07:56.440 740-740/? D/vendor.qti.bluetooth@1.0-wake_lock: Acquire wakelock is acquired
+2019-05-07 14:07:56.440 740-740/? I/vendor.qti.bluetooth@1.0-ibs_handler: DeviceWakeUp: Writing IBS_WAKE_IND
+2019-05-07 14:07:56.441 740-2908/? I/vendor.qti.bluetooth@1.0-ibs_handler: ProcessIbsCmd: Received IBS_WAKE_ACK: 0xFC
+2019-05-07 14:07:56.441 740-2908/? I/vendor.qti.bluetooth@1.0-ibs_handler: ProcessIbsCmd: Received IBS_WAKE_IND: 0xFD
+2019-05-07 14:07:56.441 740-2908/? I/vendor.qti.bluetooth@1.0-ibs_handler: ProcessIbsCmd: Writing IBS_WAKE_ACK
+2019-05-07 14:07:56.446 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:56.463 749-903/? I/chatty: uid=1000(system) HwBinder:749_1 identical 1 line
+2019-05-07 14:07:56.479 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:56.483 740-2908/? I/vendor.qti.bluetooth@1.0-ibs_handler: ProcessIbsCmd: Received IBS_SLEEP_IND: 0xFE
+2019-05-07 14:07:56.496 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:57.416 749-903/? I/chatty: uid=1000(system) HwBinder:749_1 identical 55 lines
+2019-05-07 14:07:57.432 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:57.442 740-2914/? I/vendor.qti.bluetooth@1.0-ibs_handler: DeviceSleep: TX Awake, Sending SLEEP_IND
+2019-05-07 14:07:57.442 740-2914/? D/vendor.qti.bluetooth@1.0-ibs_handler: SerialClockVote: vote for UART CLK OFF
+2019-05-07 14:07:57.449 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:57.566 749-903/? I/chatty: uid=1000(system) HwBinder:749_1 identical 7 lines
+2019-05-07 14:07:57.584 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:57.593 740-2678/? D/vendor.qti.bluetooth@1.0-wake_lock: Release wakelock is released
+2019-05-07 14:07:57.601 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:57.901 749-903/? I/chatty: uid=1000(system) HwBinder:749_1 identical 18 lines
+2019-05-07 14:07:57.918 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:57.910 753-753/? W/memtrack@1.0-se: type=1400 audit(0.0:11966): avc: denied { read } for name="mem" dev="debugfs" ino=2164219 scontext=u:r:hal_memtrack_default:s0 tcontext=u:object_r:qti_debugfs:s0 tclass=file permissive=0
+2019-05-07 14:07:57.923 3456-24406/? D/FileOperator: Mode change to WRITE_MODE!
+2019-05-07 14:07:57.935 749-903/? D/SDM: DisplayBase::BuildLayerStackStats: LayerStack layer_count: 3, app_layer_count: 2, gpu_target_index: 2, display type: 0
+2019-05-07 14:07:57.943 3259-27954/? D/BluetoothAdapter: isLeEnabled(): ON
